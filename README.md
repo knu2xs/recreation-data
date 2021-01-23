@@ -5,7 +5,6 @@ Compiling recreation data from various sources and pushing into a complete sourc
 ## Getting Started
 
 ## Project Organization
-------------
 ```
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data`
