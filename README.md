@@ -2,8 +2,6 @@
 
 Compiling recreation data from various sources and pushing into a complete source.
 
-## Getting Started
-
 ## Project Organization
 ```
     ├── LICENSE
