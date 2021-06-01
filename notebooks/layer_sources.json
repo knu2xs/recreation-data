@@ -1,0 +1,110 @@
+[
+  {
+    "name":"BLM Land Ownership",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/lands\/BLM_Natl_SMA_LimitedScale\/MapServer\/22",
+    "admin_agency":"BLM",
+    "layer_type":"area"
+  },
+  {
+    "name":"BLM Roads Managed for Limited Public Motorized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/1",
+    "admin_agency":"BLM",
+    "layer_type":"road"
+  },
+  {
+    "name":"BLM Roads Managed for Public Motorized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/0",
+    "admin_agency":"BLM",
+    "layer_type":"road"
+  },
+  {
+    "name":"BLM Trails Managed for Limited Public Motorized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/3",
+    "admin_agency":"BLM",
+    "layer_type":"road"
+  },
+  {
+    "name":"BLM Trails Managed for Public",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/7",
+    "admin_agency":"BLM",
+    "layer_type":"trail"
+  },
+  {
+    "name":"BLM Trails Managed for Public Motorized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/2",
+    "admin_agency":"BLM",
+    "layer_type":"road"
+  },
+  {
+    "name":"BLM Trails Managed for Public Non-Mechanized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/5",
+    "admin_agency":"BLM",
+    "layer_type":"trail"
+  },
+  {
+    "name":"BLM Trails Managed for Public Non-Motorized Use",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/4",
+    "admin_agency":"BLM",
+    "layer_type":"road"
+  },
+  {
+    "name":"BLM Trails Not Assessed for Public",
+    "url":"https:\/\/gis.blm.gov\/arcgis\/rest\/services\/transportation\/BLM_Natl_GTLF_Public_Display\/MapServer\/6",
+    "admin_agency":"BLM",
+    "layer_type":"trail"
+  },
+  {
+    "name":"US NPS Public Roads - NPS Public Roads",
+    "url":"https:\/\/mapservices.nps.gov\/arcgis\/rest\/services\/NationalDatasets\/NPS_Public_Roads\/FeatureServer\/1",
+    "admin_agency":"NPS",
+    "layer_type":"road"
+  },
+  {
+    "name":"US NPS Trails",
+    "url":"https:\/\/mapservices.nps.gov\/arcgis\/rest\/services\/NationalDatasets\/NPS_Public_Trails\/MapServer\/0",
+    "admin_agency":"NPS",
+    "layer_type":"trail"
+  },
+  {
+    "name":"US NPS Wilderness",
+    "url":"https:\/\/mapservices.nps.gov\/arcgis\/rest\/services\/Wilderness\/Wilderness\/FeatureServer\/0",
+    "admin_agency":"NPS",
+    "layer_type":"area"
+  },
+  {
+    "name":"USFS National Forest Boundary",
+    "url":"https:\/\/apps.fs.usda.gov\/fsgisx05\/rest\/services\/wo_nfs_gtac\/EGIS_RecreationBasemap_01\/MapServer\/8",
+    "admin_agency":"USFS",
+    "layer_type":"area"
+  },
+  {
+    "name":"USFS Roads",
+    "url":"https:\/\/apps.fs.usda.gov\/fsgisx05\/rest\/services\/wo_nfs_gtac\/EGIS_RecreationBasemap_01\/MapServer\/3",
+    "admin_agency":"USFS",
+    "layer_type":"road"
+  },
+  {
+    "name":"USFS Roads Closed to Motorized Uses",
+    "url":"https:\/\/apps.fs.usda.gov\/fsgisx05\/rest\/services\/wo_nfs_gtac\/EGIS_RecreationBasemap_01\/MapServer\/4",
+    "admin_agency":"USFS",
+    "layer_type":"road"
+  },
+  {
+    "name":"USFS Trails",
+    "url":"https:\/\/apps.fs.usda.gov\/fsgisx05\/rest\/services\/wo_nfs_gtac\/EGIS_RecreationBasemap_01\/MapServer\/2",
+    "admin_agency":"USFS",
+    "layer_type":"trail"
+  },
+  {
+    "name":"USFS Wilderness",
+    "url":"https:\/\/apps.fs.usda.gov\/fsgisx05\/rest\/services\/wo_nfs_gtac\/EGIS_RecreationBasemap_01\/MapServer\/10",
+    "admin_agency":"USFS",
+    "layer_type":"area"
+  },
+  {
+    "name":"WA Trails",
+    "url":"https:\/\/gismanager.rco.wa.gov\/arcgis\/rest\/services\/OpenData\/WA_RCO_OpenData\/MapServer\/9",
+    "admin_agency":"WA",
+    "layer_type":"trail"
+  }
+]
